@@ -46,7 +46,7 @@ int main()
 {
 	Sinhvien* sv;
 	int i,n=0,m;
-	cout<<"Nhap so luong sinh vien";
+	cout<<"Nhap so luong sinh vien can xu ly"; // vui lòng nhập đúng số lượng
 	cin>>m;
 	sv=new Sinhvien[m];
 	char s;
